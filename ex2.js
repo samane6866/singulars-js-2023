@@ -21,7 +21,7 @@ function filterCountries(countries, continentToFilter) {
   return filteredCountries;
 }
 
-console.log("Paises de Europa: ", filterCountries(countries, "Europa")); // [{ name: "España", continent:"Europa" },{ name: "Italia", continent: "Europa" },];
+console.log("Paises de Europa: ", filterCountries(countries, "Europa")); // [{ name: "España", continent:"Europa" },{ name: "Italia", continent: "Europa" }];
 console.log("Paises de Asia: ", filterCountries(countries, "Asia")); // [{ name: "China", continent: "Asia" }];
 
 /**
