@@ -28,7 +28,7 @@ Completa el ejercicio especificado en el mismo fichero. Para ejecutar el script:
 Completa el tag _script_ situado en el mismo fichero index.html
 Recuerda que este fichero debes abrirlo con Live Server.
 
-<video width="90%" height="90%" controls autoplay><source src="https://oscarm.tinytake.com/df/1466b06/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview" type="video/mp4">Your browser does not support the video tag.</video><br />
+Enlace al [vídeo](https://oscarm.tinytake.com/msc/ODE4Njk4OF8yMTM5MjEzNA)
 
 ### Evaluación
 
